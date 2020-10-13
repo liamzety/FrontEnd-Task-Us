@@ -2,7 +2,7 @@
 
 ***Check it out LIVE <a href="https://task-us.herokuapp.com/#/">Task-Us</a>*** 
 
-***You can also watch the live demo presentation <a href="https://vimeo.com/467803554">HERE</a>***
+***You can also watch a live demo presentation <a href="https://vimeo.com/467803554">HERE</a>***
 # Task-Us
 
 > Managing our work together.
