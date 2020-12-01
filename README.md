@@ -74,11 +74,6 @@ Dashboard  ![Recordit GIF](http://g.recordit.co/DMNIf03n1t.gif)
 
 ---
 
-## Installation
-
-- All the `code` required to get started
-- Images of what it should look like
-
 ### Clone
 
 - Clone this repo to your local machine using `https://github.com/FriZe6/FrontEnd-Task-Us.git`
@@ -93,10 +88,6 @@ $ npm i
 ```
 
 ---
-
-## Contributing
-
-> To get started...
 
 ### Step 1
 
